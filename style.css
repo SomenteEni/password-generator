@@ -54,7 +54,7 @@ body{
 	transition: 0.5s;
 }
 
-.button-cta:hover{
+.button-cta:hover, .button-cta:active{
 	background: #3EB72B;
 	box-shadow: 0 0 5px #3EB72B, 0 0 25px #3EB72B, 0 0 50px #3EB72B, 0 0 200px #3EB72B;
 }
