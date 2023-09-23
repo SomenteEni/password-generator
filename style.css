@@ -51,6 +51,12 @@ body{
 	color: #FFF;
 	font-weight: bold;
 	font-size: 24px;
+	transition: 0.5s;
+}
+
+.button-cta:hover{
+	background: #3EB72B;
+	box-shadow: 0 0 5px #3EB72B, 0 0 25px #3EB72B, 0 0 50px #3EB72B, 0 0 200px #3EB72B;
 }
 
 .container-password{
